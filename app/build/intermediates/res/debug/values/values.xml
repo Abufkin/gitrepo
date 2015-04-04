@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Android/AndroidStudioProjects/MbqtyChallenge/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="files">files</string-array>
+    <string name="app_name">DBRoulette</string>
+</resources>
